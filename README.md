@@ -31,12 +31,15 @@
 
 <hr/>
 
-<h2>📂 Projects</h2>
+<h2>💼 Projects</h2>
 
-<h3>🛠 [Project Name 1]</h3>
-<p><strong>Description:</strong> [Brief summary of the project].</p>
-<p><strong>Tech Stack:</strong> [e.g., React, Node.js, MongoDB].</p>
-<a href="#">🔗 View Project</a>
+<h3>💡 AntWork 그룹웨어 프로젝트</h3>
+<ul>
+  <li><strong>Description:</strong> 그룹웨어 시스템 개발 프로젝트로 협업 기능과 사용자 친화적인 UI를 제공합니다.</li>
+  <li><strong>Tech Stack:</strong> Java, SpringBoot, MySQL, HTML, CSS, JavaScript</li>
+  <li><strong>Duration:</strong> 2024.11.16 ~ 현재 진행 중</li>
+  <li><strong>Repository:</strong> <a href="https://github.com/your-repository-link" target="_blank">🔗 AntWork 프로젝트 GitHub</a></li>
+</ul>
 
 <h3>💡 [Project Name 2]</h3>
 <p><strong>Description:</strong> [Brief summary of the project].</p>
