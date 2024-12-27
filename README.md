@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋JeongHun's ReadMe!</h1>
 
 <p align="center">🌱 A passionate <strong>Junior Developer</strong> eager to learn and grow in the tech world.</p>
 <p align="center">🔭 Currently exploring <strong>[Your Interest Areas, e.g., Web Development, Machine Learning, etc.]</strong>.</p>
